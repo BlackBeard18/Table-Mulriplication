@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(19, 163, 0);
+    display: block;
+    justify-content: center;
+}
+h1 {
+    text-align: center;
+}
+#fontTab {
+    background-color: rgb(26, 0, 141);
+    margin-left: 15%;
+    height: 160px;
+    width: 70%;
+}
+#tableau {
+    margin-left: 570px;
+    margin-top: 25px;
+}
+h2 {
+    color: aqua;
+    font-size: 18px;
+    text-align: center;
+    background-color: rgb(26, 0, 141);
+}
+#but {
+    margin-left: 590px;
+}
+.conteTable {
+    color: white;
+    background-color: rgb(26, 0, 141);
+    margin-top: 10px;
+    margin-left: 15%;
+    padding-left: 230px;
+    height: 330px;
+    width: 57.5%;
+}
+.conteTable h2 {
+    padding-right: 21%;
+    padding-top: 2%;
+}
+#reponse {
+    text-align: center;
+    column-count: 3;
+    padding-right: 22%;
+    padding-top: 2%;
+}
